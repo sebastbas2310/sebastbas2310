@@ -1,10 +1,10 @@
 Bienveido ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)Mi nombre es Sebastian Bermudez Buritica
 ==========================================================================================================================================
 
-Estuudiante de Ingenieria de Sistemas
+Estudiante de Ingenieria de Sistemas
 ------------------
 
-Soy un apasionado por el desarrollo de software que comencé mi camino en este mundo a los 13 años con robótica y domótica en C++. Ahora soy un desarrollador fullstack con más de 7 años de experiencia y con una gran ambición por nunca dejar de aprender y entregar mi conocimiento a empresas y personas que explotan el universo de la tecnología y el agilismo.<br><br>🌍  Estoy en Medellín, Colombia.<br>✉️  Me puedes contactar al correo simon.sanchezmaya2000@gmail.com<br>🚀 +57 3124076729<br>🧠  Estoy aprendiendo Arquitectura de Software y Cloud computing.
+Soy un apasionado por el desarrollo de software que comencé mi camino en este mundo a los 13 años con robótica y domótica en C++. Ahora soy un desarrollador fullstack con más de 7 años de experiencia y con una gran ambición por nunca dejar de aprender y entregar mi conocimiento a empresas y personas que explotan el universo de la tecnología y el agilismo.<br><br>🌍  Estoy en Medellín, Colombia.<br>✉️  Me puedes contactar al correo sbermudezburitica@gmail.com<br>🚀 +57 3052409475<br>🧠  Estoy AI y Machine Lerning.
 
 ## Idiomas
 * 🌍  Español Lengua materna
