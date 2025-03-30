@@ -1,4 +1,4 @@
-Bienveido ![](🤓)Mi nombre es Sebastian Bermudez Buritica
+Bienveido 🤓 Mi nombre es Sebastian Bermudez Buritica
 ==========================================================================================================================================
 
 Estudiante de Ingenieria de Sistemas
