@@ -5,11 +5,11 @@ Estudiante de Ingeniería de Sistemas <img src="https://github.com/twitter/twemo
 ------------------
 
 Soy un apasionado del desarrollo de software. Comencé mi camino en este mundo a los 14 años gracias a los videojuegos y su desarrollo, empezando con el estudio de Unity y C#. Ahora soy estudiante de desarrollo web e inteligencia artificial, con una gran ambición por nunca dejar de aprender y por usar mi conocimiento para ayudar a empresas y personas a aprovechar la tecnología al máximo, contribuyendo a su evolución.
-
-🌍 Estoy en Medellín, Colombia.
-✉️ Me puedes contactar al correo sbermudezburitica@gmail.com
-📱 +57 305 240 9475
-🧠 Estoy estudiando IA y Machine Learning.
+<br>
+🌍 Estoy en Medellín, Colombia.<br>
+✉️ Me puedes contactar al correo sbermudezburitica@gmail.com<br>
+📱 +57 305 240 9475<br>
+🧠 Estoy estudiando IA y Machine Learning.<br>
 
 ## Idiomas
 * 🌍  Español Lengua materna
