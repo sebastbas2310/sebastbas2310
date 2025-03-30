@@ -4,7 +4,12 @@ Bienveido 🤓 Mi nombre es Sebastian Bermudez Buritica
 Estudiante de Ingeniería de Sistemas <img src="https://github.com/twitter/twemoji/blob/master/assets/svg/1f393.svg" width="30" height="30">
 ------------------
 
-Soy un apasionado por el desarrollo de software que comencé mi camino en este mundo a los 13 años con robótica y domótica en C++. Ahora soy un desarrollador fullstack con más de 7 años de experiencia y con una gran ambición por nunca dejar de aprender y entregar mi conocimiento a empresas y personas que explotan el universo de la tecnología y el agilismo.<br><br>🌍  Estoy en Medellín, Colombia.<br>✉️  Me puedes contactar al correo sbermudezburitica@gmail.com<br>🚀 +57 3052409475<br>🧠  Estoy estudiando AI y Machine Lerning.
+Soy un apasionado del desarrollo de software. Comencé mi camino en este mundo a los 14 años gracias a los videojuegos y su desarrollo, empezando con el estudio de Unity y C#. Ahora soy estudiante de desarrollo web e inteligencia artificial, con una gran ambición por nunca dejar de aprender y por usar mi conocimiento para ayudar a empresas y personas a aprovechar la tecnología al máximo, contribuyendo a su evolución.
+
+🌍 Estoy en Medellín, Colombia.
+✉️ Me puedes contactar al correo sbermudezburitica@gmail.com
+📱 +57 305 240 9475
+🧠 Estoy estudiando IA y Machine Learning.
 
 ## Idiomas
 * 🌍  Español Lengua materna
