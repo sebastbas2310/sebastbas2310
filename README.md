@@ -20,7 +20,12 @@ Soy un apasionado del desarrollo de software. Comencé mi camino en este mundo a
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/bermudez3292/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://co.linkedin.com/in/sebastian-bermudez-buritica-382934245?original) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sbermudezburitica@gmail.com) 
 
 # ✏️ Estudios:
-
+<br>
+📖 secundaria: I.E.Gilberto Alzate Avendaño - Finalizado <br>
+💻 tecnica desarrollo de software: sena - Finalizado <br>
+🧑‍🏫 pregrado: universidad EIA - 4 semestre <br>
+🌐 ingles: Quick Learning - Finalizado <br>
+🎨 Diseño de experiencia del usuario (UX): Coursera - en Proceso <br>
 
 # 💻 Tecnologias conocidas:
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Unity](https://img.shields.io/badge/%F0%9D%97%A8%F0%9D%97%A1%F0%9D%97%9C%F0%9D%97%A7%F0%9D%97%AC-000?style=flat-square&logo=Unity
