@@ -1,22 +1,21 @@
-Bienveido 🤓 Mi nombre es Sebastian Bermudez Buritica
+Welcome 🤓 My name is Sebastian Bermudez Buritica
 ==========================================================================================================================================
 
-Estudiante de Ingeniería de Sistemas <img src="https://github.com/twitter/twemoji/blob/master/assets/svg/1f393.svg" width="30" height="30">
+Systems Engineering Student <img src="https://github.com/twitter/twemoji/blob/master/assets/svg/1f393.svg" width="30" height="30">
 ------------------
 
-Soy un apasionado del desarrollo de software. Comencé mi camino en este mundo a los 14 años gracias a los videojuegos y su desarrollo, empezando con el estudio de Unity y C#. Ahora soy estudiante de desarrollo web e inteligencia artificial, con una gran ambición por nunca dejar de aprender y por usar mi conocimiento para ayudar a empresas y personas a aprovechar la tecnología al máximo, contribuyendo a su evolución.<br>
-<br>
-🌍 Estoy en Medellín, Colombia.<br>
-✉️ Me puedes contactar al correo sbermudezburitica@gmail.com<br>
-📱 +57 305 240 9475<br>
-🧠 Estoy estudiando IA y Machine Learning.<br>
+I'm passionate about software development. I began my journey in this world at the age of 14 thanks to video games and their development, starting with Unity and C#. Now, I'm a student of web development and artificial intelligence, driven by a strong ambition to never stop learning and to use my knowledge to help businesses and individuals make the most of technology, contributing to its evolution.<br> <br>
+🌍 I'm based in Medellín, Colombia.<br> 
+✉️ You can contact me at: sbermudezburitica@gmail.com<br> 
+📱 +57 305 240 9475<br> 
+🧠 Currently studying AI and Machine Learning.<br>
 
-## Idiomas
-* 🌍  Español Lengua materna
-* 🌍  Inglés B1 Intermedio
+Languages
+🌍 Spanish - Native
+🌍 English - Intermediate (B1)
 
 
-## 🌐 Redes sociales:
+🌐 Social Media:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/bermudez3292/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://co.linkedin.com/in/sebastian-bermudez-buritica-382934245?original) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sbermudezburitica@gmail.com) 
 
 # ✏️ Estudios:
