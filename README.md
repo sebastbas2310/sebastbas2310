@@ -7,7 +7,7 @@ Systems Engineering Student <img src="https://github.com/twitter/twemoji/blob/ma
 I'm passionate about software development. I began my journey in this world at the age of 14 thanks to video games and their development, starting with Unity and C#. Now, I'm a student of web development and artificial intelligence, driven by a strong ambition to never stop learning and to use my knowledge to help businesses and individuals make the most of technology, contributing to its evolution.<br> <br>
 🌍 I'm based in Medellín, Colombia.<br> 
 ✉️ You can contact me at: sbermudezburitica@gmail.com<br> 
-📱 +57 305 240 9475<br> 
+📱 +57 300 6085506<br> 
 🧠 Currently studying AI and Machine Learning.<br>
 
 Languages <br>
