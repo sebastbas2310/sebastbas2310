@@ -8,7 +8,7 @@ I'm passionate about software development. I began my journey in this world at t
 🌍 I'm based in Medellín, Colombia.<br> 
 ✉️ You can contact me at: sbermudezburitica@gmail.com<br> 
 📱 +57 300 6085506<br> 
-🧠 Currently studying AI and Machine Learning.<br>
+🧠 Currently studying SQL database.<br>
 
 Languages <br>
 🌍 Spanish - Native <br>
